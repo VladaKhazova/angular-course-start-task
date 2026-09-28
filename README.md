@@ -138,7 +138,7 @@ ng build
 
 2. Какой размер `initial` бандла показал CLI?
 
-Ответ: Initial total: 202.41 kB и Estimated transfer size: 55.32 kB  
+Ответ: Initial total: 202.41 kB и Estimated transfer size: 55.29 kB  
 
 3. Чем отличается вывод `ng build` от `ng build --configuration development`?
 
